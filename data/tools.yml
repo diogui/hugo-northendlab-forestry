@@ -26,7 +26,7 @@ tools:
   tool:
   - name: Testing Tools
     image: "/images/127139800_10224998079242574_2819185845709522951_o.jpg"
-    link: ''
+    link: google.com
   - name: Sketch
     image: "/images/tools/sketch.png"
     link: https://www.sketch.com/
